@@ -13,7 +13,7 @@ createFolders(basePath)
 function sortFiles(files){
     for (let i = 0; i<files.length; i++) {
         const file = files[i]
-        const fileType = path.extname(file).toString()
+        const fileType = path.extname(file).toLowerCase()
         if(fileType) {
             let folder = 'others'
             if(isImage.some(image => image === fileType )){

@@ -19,7 +19,5 @@
   },
   "homepage": "https://github.com/BekzodbekTurgunov/sort-files-in-folder#readme",
   "dependencies": {
-    "fs-extra": "^10.1.0",
-    "mv": "^2.1.1"
   }
 }

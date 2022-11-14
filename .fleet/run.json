@@ -1,0 +1,9 @@
+{
+    "configurations": [
+        {
+            "name": "Run my script",
+            "type": "command",
+            "program": "app.js",
+        }
+    ]
+}

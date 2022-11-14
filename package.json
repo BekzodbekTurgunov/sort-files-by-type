@@ -1,0 +1,25 @@
+{
+  "name": "sort-files-in-folder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BekzodbekTurgunov/sort-files-in-folder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BekzodbekTurgunov/sort-files-in-folder/issues"
+  },
+  "homepage": "https://github.com/BekzodbekTurgunov/sort-files-in-folder#readme",
+  "dependencies": {
+    "fs-extra": "^10.1.0",
+    "mv": "^2.1.1"
+  }
+}
